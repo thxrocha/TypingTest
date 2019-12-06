@@ -1,2 +1,0 @@
-# TypingTest
-Created with CodeSandbox
